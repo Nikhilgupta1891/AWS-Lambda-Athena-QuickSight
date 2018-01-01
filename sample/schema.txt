@@ -1,0 +1,2 @@
+tableName
+Year INT,LocationAbbr STRING,LocationDesc STRING,GeographicLevel STRING,DataSource STRING,Class STRING,Topic STRING,Mortality STRING,Data_Value_Unit STRING,Data_Value_Type STRING,Data_Value_Footnote_Symbol STRING,Data_Value_Footnote STRING,StratificationCategory1 STRING,Gender STRING,StratificationCategory2 STRING,Race STRING,TopicID STRING,LocationID INT,Location STRING

@@ -1,0 +1,2 @@
+SELECT year, locationabbr as state, gender, race, avg(cast(mortality AS DOUBLE)) AS avgHeartDiseaseMortalityValue
+FROM cerner.shipit WHERE length(mortality) > 0 GROUP BY year, locationabbr, gender, race ORDER BY year, locationabbr, gender, race

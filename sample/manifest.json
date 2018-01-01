@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "https://s3.us-east-2.amazonaws.com/aws-athena-query-results-578049665709-us-east-2/Unsaved/2017/08/11/58f7c493-2ca8-4c09-b6e8-e8fb51781db9.csv"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
